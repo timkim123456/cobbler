@@ -1,0 +1,8 @@
+bootstate=0
+title=Loading ESXi installer
+prefix=$img_path
+kernel=$kernel_file
+kernelopt=runweasel $kopts
+modules=$esx_modules
+build=
+updated=0
